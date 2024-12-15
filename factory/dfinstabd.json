@@ -1,0 +1,9 @@
+{
+	"name": "dfinstabd",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "aa3c1dff-9653-4120-bfdd-a205ea3da07a",
+		"tenantId": "84f1e4ea-8554-43e1-8709-f0b8589ea118"
+	}
+}
